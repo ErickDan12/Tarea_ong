@@ -1,0 +1,143 @@
+.titulo{
+    text-align: center;
+  }
+  .descripcion{
+      text-align: center;
+  }
+  h2 {
+      text-align: center;
+      color: #333; /* Color del texto */
+      font-size: 1.5em; /* Tamaño de la fuente */
+      margin-bottom: 20px; /* Espacio inferior */
+  }
+  ul{
+      text-align:center;
+      list-style-type: none;
+      padding: 0;
+  }
+  .imagen {
+      float: left; /* Alinea la imagen a la izquierda */
+      margin-right: 20px; /* Espacio entre la imagen y el texto */
+  }
+  .contenido {
+      overflow: hidden; /* Evita que el texto se envuelva alrededor de la imagen */
+  }
+  .titulofinal{
+    color:rgb(226, 125, 2);
+    text-align: left;
+    font-weight: bold ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .subtitulofinal{
+    text-align: left;
+    margin-bottom: 450px;
+    font-style: italic ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(255, 255, 255)  
+  }
+
+
+
+  /*perros*/
+
+  .titulo{
+    text-align: center;
+  }
+  .descripcion{
+      text-align: center;
+  }
+  h2 {
+      text-align: center;
+      color: #333; /* Color del texto */
+      font-size: 1.5em; /* Tamaño de la fuente */
+      margin-bottom: 20px; /* Espacio inferior */
+  }
+  ul{
+      text-align:center;
+      list-style-type: none;
+      padding: 0;
+  }
+  .imagen {
+      float: left; /* Alinea la imagen a la izquierda */
+      margin-right: 20px; /* Espacio entre la imagen y el texto */
+  }
+  .contenido {
+      overflow: hidden; /* Evita que el texto se envuelva alrededor de la imagen */
+  }
+  .enlace {
+      position: absolute; /* Establece la posición absoluta */
+      top: 10px; /* Espacio desde la parte superior */
+      right: 10px; /* Espacio desde la derecha */
+  }
+  .card-container {
+    display: flex;
+    justify-content:space-between; /* Para distribuir las tarjetas uniformemente */
+    flex-wrap: wrap; /* Para permitir que las tarjetas se envuelvan si no hay suficiente espacio */
+  }
+  
+  .card {
+    margin-bottom: 50px; /* Margen inferior entre las tarjetas */
+  }
+
+  .card-text{
+    text-align:center;
+    color: rgb(235, 124, 13);
+  }
+   
+  /* gatos */
+
+  .titulo{
+    text-align: center;
+  }
+  .descripcion{
+      text-align: center;
+  }
+  h2 {
+      text-align: center;
+      color: #333; /* Color del texto */
+      font-size: 1.5em; /* Tamaño de la fuente */
+      margin-bottom: 20px; /* Espacio inferior */
+  }
+  ul{
+      text-align:center;
+      list-style-type: none;
+      padding: 0;
+  }
+  .imagen {
+      float: left; /* Alinea la imagen a la izquierda */
+      margin-right: 20px; /* Espacio entre la imagen y el texto */
+  }
+  .contenido {
+      overflow: hidden; /* Evita que el texto se envuelva alrededor de la imagen */
+  }
+  .enlace {
+      position: absolute; /* Establece la posición absoluta */
+      top: 10px; /* Espacio desde la parte superior */
+      right: 10px; /* Espacio desde la derecha */
+  }
+
+  .contenedor {
+    display: flex; /* Utilizamos flexbox para alinear los elementos */
+    align-items: center; /* Alineamos verticalmente los elementos */
+  }
+  .imagen {
+    flex: 1; /* La imagen ocupará todo el espacio disponible */
+  }
+  .texto-descriptivo {
+    flex: 1; /* El texto ocupará todo el espacio disponible */
+    padding-left: 20px; /* Añadimos un espacio entre la imagen y el texto */
+  }
+  .enlace {
+      position: absolute; /* Establece la posición absoluta */
+      top: 10px; /* Espacio desde la parte superior */
+      right: 110px; /* Espacio desde la derecha */
+  }
+  .enlace2{
+      position: absolute; /* Establece la posición absoluta */
+      top: 10px; /* Espacio desde la parte superior */
+      right: 10px; /* Espacio desde la derecha */
+  }
+
+
+  
+

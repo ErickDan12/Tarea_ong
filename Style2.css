@@ -1,0 +1,14 @@
+.align-right {
+    text-align: right;
+  }
+  .list-item-table {
+    width: 100%;
+  }
+  
+  .list-item-table td:first-child {
+    width: 80%; 
+  }
+  
+  .list-item-table td:last-child {
+    text-align: justify;
+  }
